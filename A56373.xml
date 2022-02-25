@@ -1,0 +1,961 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The figure of seaven Containing divers matters, serious, jocose, pleasant and profitable; fitted to the capacities both of the learned and ignorant. Wherein, is more treated of, then of any subject written before of this kind. By Poor Robin, knight of the Burnt-Island, a well-wisher to the mathematicks. Printed with allowance.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56373</idno>
+            <idno type="STC">Wing P437B</idno>
+            <idno type="STC">ESTC R216952</idno>
+            <idno type="EEBO-CITATION">99828664</idno>
+            <idno type="PROQUEST">99828664</idno>
+            <idno type="VID">33095</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33095)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1931:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The figure of seaven Containing divers matters, serious, jocose, pleasant and profitable; fitted to the capacities both of the learned and ignorant. Wherein, is more treated of, then of any subject written before of this kind. By Poor Robin, knight of the Burnt-Island, a well-wisher to the mathematicks. Printed with allowance.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Conyers at the Black Raven a little above St. Andrews Church Holborn,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1686?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Poor Robin = Martin Parker. Attribution from Wing.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge University, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aphorisms and apothegms --  Early works to 1800.</term>
+               <term>Proverbs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33095:1"/>
+            <pb facs="tcp:33095:1"/>
+            <p>THE FIGURE OF Seaven.</p>
+            <p>CONTAINING Divers matters, Serious, Jo<g ref="char:EOLhyphen"/>coſe, Pleaſant and Profita<g ref="char:EOLhyphen"/>ble; fitted to the Capacities both of the learned and ig<g ref="char:EOLhyphen"/>norant.</p>
+            <p>WHEREIN, Is more treated of, then of any ſubject written before of this kind.</p>
+            <p>
+               <hi>By</hi> POOR ROBIN, <hi>Knight of th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Burnt-Iſland, a Well-wiſher to the Math<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>maticks.</hi>
+            </p>
+            <p>Printed with Allowance.</p>
+            <p>Printed for <hi>J. Conyers</hi> at the <hi>Black Rav<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> a little above St. <hi>Andrews Church Holb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33095:2"/>
+            <head>To the Ingenious READER.</head>
+            <l>THE Figure of Seven I here to you preſent</l>
+            <l>Hoping the ſame will give you rich Content,</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or here is nothing laid forth to your ſight,</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut may the Reader profit and delight.</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere is variety for to content ye,</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he better ſo that may we complement ye:</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er's new and old, ſome jocoſe and ſome ſerious</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome plainly underſtood, and ſome myſterious:</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s when men eats there's difference in their Palate,</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome love ſtrong meats, others content with Sallet;</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſome are for a high and lofty ſtrain</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſome for writing that is down-right plain.</l>
+         </div>
+      </front>
+      <body>
+         <div type="series_of_heptadic_lists">
+            <pb facs="tcp:33095:2"/>
+            <head>THE FIGURE OF Seven.</head>
+            <list>
+               <head>The ſeven Ages of the World.</head>
+               <item>1 FRom the Creation of <hi>Adam</hi> to the Flood of <hi>Noah,</hi>
+               </item>
+               <item>2 From <hi>Noah</hi> to <hi>A<g ref="char:EOLhyphen"/>braham,</hi> 
+               </item>
+               <item>3 From <hi>Abraham</hi>'s Birth, till the departing of <hi>Iſrael</hi> out of <hi>Egypt,</hi>
+               </item>
+               <item>4 From the departing of the <hi>Iſrael</hi> out of <hi>Egypt,</hi> till the Building of the Temple, </item>
+               <item>5 From the building of the Temple, till the Captivity of <hi>Babylon,</hi>
+               </item>
+               <item>6 From the Captivity of <hi>Baby<g ref="char:EOLhyphen"/>lon</hi> till the Birth of our Saviour, </item>
+               <item>7 From Chriſt's Birth, till this preſent year, 1686.</item>
+            </list>
+            <list>
+               <head>The ſeven Ages of Man.</head>
+               <item>1 Infamy,</item>
+               <item>2 Childhood,</item>
+               <item>3 Youth,</item>
+               <item>4 Manhood,</item>
+               <item>5 Ripe Manhood,</item>
+               <item>6 Old-age<g ref="char:punc">▪</g>
+               </item>
+               <item>7 Decriped-age.</item>
+            </list>
+            <list>
+               <pb facs="tcp:33095:3"/>
+               <head>The ſeven wonders of the World.</head>
+               <item>1 The Walls of <hi>Babylon,</hi>
+               </item>
+               <item>2 The Pyra<g ref="char:EOLhyphen"/>mids of <hi>Egypt,</hi>
+               </item>
+               <item>3 The Tomb of <hi>Manſoleus,</hi>
+               </item>
+               <item>4 <hi>Diana</hi>'s Temple at <hi>Epheſus,</hi>
+               </item>
+               <item>5 The Image of <hi>Apollo</hi> at <hi>Rhodes,</hi>
+               </item>
+               <item>6 <hi>Pharaoh</hi>'s Watch-Tower,</item>
+               <item>7 The Image of <hi>Jupiter</hi> at <hi>Achai<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven fortunate Iſlands.</head>
+               <item>1 <hi>Canary,</hi>
+               </item>
+               <item>2 <hi>Palusa,</hi>
+               </item>
+               <item>3 <hi>Tenariffe,</hi>
+               </item>
+               <item>4 <hi>Gome<g ref="char:EOLhyphen"/>ra, Hiero,</hi>
+               </item>
+               <item>6 <hi>Lanſavolle,</hi> 
+               </item>
+               <item>7 <hi>Fuerte ventura.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven months of <hi>Nilus.</hi>
+               </head>
+               <item>1 Heracleoticum,</item>
+               <item>2 Boluiticum,</item>
+               <item>3 Scha<g ref="char:EOLhyphen"/>miticum,</item>
+               <item>4 Mendeſium,</item>
+               <item>5 Canticum,</item>
+               <item>6 Peluſaicum,</item>
+               <item>7 Carionicum.</item>
+            </list>
+            <list>
+               <head>The ſeven Champions of <hi>Chriſtendome.</hi>
+               </head>
+               <item>1 St. <hi>George</hi> of <hi>England,</hi>
+               </item>
+               <item>2 St. <hi>Dennis</hi> of <hi>France,</hi>
+               </item>
+               <item>3 St. <hi>James</hi> of <hi>Spain,</hi>
+               </item>
+               <item>4 St. <hi>Anthony</hi> of <hi>Italy,</hi>
+               </item>
+               <item>5 St. <hi>Andrew</hi> of <hi>Scotland,</hi>
+               </item>
+               <item>6 St. <hi>Patrick</hi> of <hi>Ireland,</hi>
+               </item>
+               <item>7 St. <hi>David</hi> of <hi>Wales.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:33095:3"/>
+               <head>The ſeven Princes Electors of <hi>Germany.</hi>
+               </head>
+               <item>1 The King of <hi>Bohemiah,</hi>
+               </item>
+               <item>2 The Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſs of <hi>Brandenburgh,</hi>
+               </item>
+               <item>3 The Count <hi>Pala<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ne</hi> of <hi>Rhine,</hi>
+               </item>
+               <item>4 The Duke of <hi>Saxony,</hi>
+               </item>
+               <item>5 The Archbiſhop of <hi>Mentz,</hi>
+               </item>
+               <item>6 The Arch<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hop of <hi>Colon,</hi>
+               </item>
+               <item>7 The Archbiſhop of <hi>Triers.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven <hi>Aſian</hi> Churches.</head>
+               <item>1 <hi>Epheſus,</hi>
+               </item>
+               <item>2 <hi>Smyrna,</hi>
+               </item>
+               <item>3 <hi>Pergamos,</hi>
+               </item>
+               <item>4 <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ira,</hi>
+               </item>
+               <item>5 <hi>Sardis,</hi>
+               </item>
+               <item>6 <hi>Philadelphia,</hi>
+               </item>
+               <item>7 <hi>Lao<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>a.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven Wiſe Men of <hi>Greece<g ref="char:punc">▪</g>
+                  </hi>
+               </head>
+               <item>1 <hi>Bias,</hi> 
+               </item>
+               <item>2 <hi>Solon,</hi>
+               </item>
+               <item>3 <hi>Chilon,</hi>
+               </item>
+               <item>4 <hi>Cleobulos,</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pittarus,</hi>
+               </item>
+               <item>6 <hi>Thales,</hi>
+               </item>
+               <item>7 <hi>Periander.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven Cities which ſtrove for the Birth of <hi>Homer.</hi>
+               </head>
+               <item>1 <hi>Smyrna,</hi>
+               </item>
+               <item>2 <hi>Rhodes,</hi>
+               </item>
+               <item>3 <hi>Colophon,</hi>
+               </item>
+               <item>4 <hi>Sa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mis,</hi>
+               </item>
+               <item>5 <hi>Clios,</hi>
+               </item>
+               <item>6 <hi>Argos,</hi>
+               </item>
+               <item>7 <hi>Athens.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:33095:4"/>
+               <head>Seven Cauſes of the greatneſs of Cities.</head>
+               <item>1 A navigable River,</item>
+               <item>2 The Palace of the Prince,</item>
+               <item>3 The Reſidence of the Nobi<g ref="char:EOLhyphen"/>lity,</item>
+               <item>4 The Seat Juſtice,</item>
+               <item>5 Publick Schools of Good Learning,</item>
+               <item>6 Immunities from Taxes,</item>
+               <item>7 Opinion of Sanctity.</item>
+            </list>
+            <list>
+               <head>The ſeven deadly Sins.</head>
+               <item>1 Pride,</item>
+               <item>2 Gluttony,</item>
+               <item>3 Covetouſneſs,</item>
+               <item>4 Leachery,</item>
+               <item>5 Envy,</item>
+               <item>6 VVrath,</item>
+               <item>7 Sloath.</item>
+            </list>
+            <list>
+               <head>Seven things of Note in the City of Avigni<g ref="char:EOLhyphen"/>on in <hi>France,</hi> and of each of theſe ſeven.</head>
+               <item>1 Seven Pallaces,</item>
+               <item>2 ſeven Pariſh Church<g ref="char:EOLhyphen"/>es,</item>
+               <item>3 ſeven Monaſteries,</item>
+               <item>4 ſeven Nunne<g ref="char:EOLhyphen"/>ries,</item>
+               <item>5 ſeven Colleges,</item>
+               <item>6 ſeven Hoſpitals, and </item>
+               <item>7 ſeven Gates.</item>
+            </list>
+            <list>
+               <head>The ſeven Saxon Kingdoms that <hi>England</hi> was once divided into.</head>
+               <item>1 The Kingdom of <hi>Kent,</hi>
+               </item>
+               <item>2 The King<g ref="char:EOLhyphen"/>dom of the <hi>South-Saxons,</hi>
+               </item>
+               <item>3 The Kingdom of the <hi>Eaſt-Angles,</hi>
+               </item>
+               <item>4 The Kingdom of the <hi>Northumbers,</hi>
+               </item>
+               <item>5 The Kingdom of the <hi>Eaſt-Saxons,</hi>
+               </item>
+               <item>6 The Kingdom of <hi>Mer<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ia,</hi>
+               </item>
+               <item>7 The Kingdom of the <hi>Weſt-Saxons.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven Penetential Pſalms.</head>
+               <item>1 The ſixth,</item>
+               <item>2 the thirty ſecond,</item>
+               <item>3 the
+<pb facs="tcp:33095:4"/>
+thirty eight,</item>
+               <item>4 the fifty one,</item>
+               <item>5 the hundred and ſecond,</item>
+               <item>6 the hundred and thirty,</item>
+               <item>7 the hundred forty and third.</item>
+            </list>
+            <list>
+               <head>The ſeven ſleepers.</head>
+               <item>1 <hi>Maximilian,</hi>
+               </item>
+               <item>2 <hi>Malchus,</hi>
+               </item>
+               <item>3 <hi>Marcianus,</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Denis,</hi>
+               </item>
+               <item>5 <hi>John,</hi>
+               </item>
+               <item>6 <hi>Serapion,</hi>
+               </item>
+               <item>7 <hi>Conſtantius.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven Liberal Sciences.</head>
+               <item>1 Grammer,</item>
+               <item>2 Logick,</item>
+               <item>3 Rhetorick,</item>
+               <item>4 Aſtrology,</item>
+               <item>5 Geometry,</item>
+               <item>6 Arethme<g ref="char:EOLhyphen"/>tick,</item>
+               <item>7 Poetry.</item>
+            </list>
+            <list>
+               <head>The ſeven mechanical Arts.</head>
+               <item>1 Husbandry,</item>
+               <item>2 Cloathing,</item>
+               <item>3 Naviga<g ref="char:EOLhyphen"/>tion,</item>
+               <item>4 Hunting,</item>
+               <item>5 Architecture,</item>
+               <item>6 Me<g ref="char:EOLhyphen"/>dicine,</item>
+               <item>7 Military Diſcipline.</item>
+            </list>
+            <list>
+               <head>The ſeven Stars.</head>
+               <item>1 <hi>Ambraſia,</hi>
+               </item>
+               <item>2 <hi>Endor,</hi>
+               </item>
+               <item>3 <hi>Paſthore,</hi>
+               </item>
+               <item>4 <hi>Co<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nis,</hi> 
+               </item>
+               <item>5 <hi>Plexaura,</hi>
+               </item>
+               <item>6 <hi>Pytho,</hi>
+               </item>
+               <item>7 <hi>Tythe.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven Planets.</head>
+               <item>1 <hi>Saturn,</hi>
+               </item>
+               <item>2 <hi>Jupiter,</hi>
+               </item>
+               <item>3 <hi>Mars,</hi>
+               </item>
+               <item>4 <hi>Sol,</hi>
+               </item>
+               <item>5 <hi>Venus,</hi>
+               </item>
+               <item>6 <hi>Mercury,</hi>
+               </item>
+               <item>7 <hi>Luna.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The ſeven ſorts of Drunkards.</head>
+               <item>1 The Ape Drunkard,</item>
+               <item>2 The Lyon Drunkard,</item>
+               <item>3 The Swine Drunkard,</item>
+               <item>4 The Sheep Drunkard,</item>
+               <item>5 The Maudlin Drun<g ref="char:EOLhyphen"/>kard,</item>
+               <item>
+                  <pb facs="tcp:33095:5"/>
+6 The Goat Drunkard,</item>
+               <item>7 The <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Drunkard.</item>
+            </list>
+            <list>
+               <head>The ſeven ſorts of Cuckolds.</head>
+               <item>1 The Patient Cuckold,</item>
+               <item>2 The Jealo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cuckold,</item>
+               <item>3 The Frantick Cuckold,</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> The Hen-peckt Cuckold,</item>
+               <item>5 The Pimp<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Cuckold,</item>
+               <item>6 The ignorant Cuckold,</item>
+               <item>7 The Loving Cucko<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</item>
+            </list>
+            <list>
+               <head>Seven marks to know a Man that is Hen-p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct.</head>
+               <item>1 He that lets his wife keep his Mone<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and when he wants two pence to dri<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with a Friend, is forced to ſue to her <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> borrow it, </item>
+               <item>2 He that is followed by <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s wife to the Alehouſe, and dares not ſta<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no longer when ſhe comes for him,</item>
+               <item>3 He that warms the Childs Clou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s at the fire whilſt his Maid is dreſſing it, and his w<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> boozing it at the Ale-houſe with her Com<g ref="char:EOLhyphen"/>panions,</item>
+               <item>4 He that goes to the Ale-houſe for a Pitcher of <hi>Bub.</hi> and leaves another man at home with his wife,</item>
+               <item>5 He tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lets his wife run to Conventicles, whil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he ſtays at home to skim the Pot,</item>
+               <item>6 He that gives account to his wife what money he takes, what he ſpends at the Ale-houſe,
+<pb facs="tcp:33095:5"/>
+and what he laies out for Goods,</item>
+               <item>7 He that ſtays at home to rock the Cradle whilſt his wife rides in a hackny Coach to ſee a Play.</item>
+            </list>
+            <list>
+               <head>The ſeven Properties belonging to an Hoſt</head>
+               <item>1 He muſt have the forehead of an Ox,</item>
+               <item>2 The Ears of an Aſs,</item>
+               <item>3 The Back of a Nag,</item>
+               <item>4 The Belly of a Swine,</item>
+               <item>5 The Subtilty of a Fox,</item>
+               <item>6 Skip up and down like a Frog,</item>
+               <item>7 Fawn and lye like a Dog.</item>
+            </list>
+            <list>
+               <head>Seven ſorts of people great in Title, but poor in Purſe.</head>
+               <item>1 The Dons of <hi>Spain,</hi>
+               </item>
+               <item>2 The Monſiers of <hi>France,</hi>
+               </item>
+               <item>3 The Biſhop of <hi>Italy,</hi>
+               </item>
+               <item>4 The Nobility of <hi>Hungary,</hi>
+               </item>
+               <item>5 The Lairds of <hi>Scotland,</hi>
+               </item>
+               <item>6 The Earls of <hi>Germany,</hi>
+               </item>
+               <item>7 The Knights of <hi>Naples.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Seven things which the chaſt <hi>Romans</hi> did ſhun.</head>
+               <item>1 To talk much in Feaſts and Aſſemblies,</item>
+               <item>2 To eat too much in Banquets,</item>
+               <item>3 To drink wine being in health, </item>
+               <item>4 To ſpeak aſide with other men;</item>
+               <item>5 To ſtay long at their windows,</item>
+               <item>6 To lift up their Eyes in
+<pb facs="tcp:33095:6"/>
+the Temple,</item>
+               <item>7 To go out of their Houſes without their Husbands.</item>
+            </list>
+            <list>
+               <head>He that ſeeketh after theſe ſeven things looſeth his Labour.</head>
+               <item>1 Fat Hog among the Jews,</item>
+               <item>2 Loyalty in a Flatterer,</item>
+               <item>3 Soberneſs in a Drunkard</item>
+               <item>4 Money in a prodigal mans Purſe,</item>
+               <item>5 VViſdom in a Fool,</item>
+               <item>6 A fine wit in a fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Belly,</item>
+               <item>7 Vertue in evil Company</item>
+            </list>
+            <list>
+               <head>Seven things againſt Nature</head>
+               <item>1 A fair Maden without a Lover,</item>
+               <item>2 A merchant Town without Thieves,</item>
+               <item>3 An old Uſurer without money,</item>
+               <item>4 An old Barn without Mice,</item>
+               <item>5 A ſcald Head without Lice,</item>
+               <item>6 An old He-Goat without a Beard,</item>
+               <item>7 A ſleeping man deckt with Learning.</item>
+            </list>
+            <list>
+               <head>Seven things unprofitable unto Husbandry.</head>
+               <item>1 Hen without Eggs or Chickens,</item>
+               <item>2 A barren Sow,</item>
+               <item>3 An unfaithful ſervant,</item>
+               <item>4 A ſluggiſh Journey-man,</item>
+               <item>5 A ſleeping Cat,</item>
+               <item>6 A whoring woman,</item>
+               <item>7 A fat maid Ser<g ref="char:EOLhyphen"/>vant.</item>
+            </list>
+            <list>
+               <pb facs="tcp:33095:6"/>
+               <head>Seven things not be truſted in.</head>
+               <item>1 A ſtrong Dog,</item>
+               <item>2 An hired Horſe,</item>
+               <item>3 A pratling woman,</item>
+               <item>4 A proud ſervant,</item>
+               <item>5 The deepeſt place of a River,</item>
+               <item>6 The ſlat<g ref="char:EOLhyphen"/>tery of an Enemy,</item>
+               <item>7 The Report of a fat Traveller.</item>
+            </list>
+            <list>
+               <head>Seven Creatures hard to find</head>
+               <item>1 A ſhop-keeper that never told lye,</item>
+               <item>2 A Drunkard that never ſwore an Oath,</item>
+               <item>3 A true Taylor,</item>
+               <item>4 An honeſt Lawyer,</item>
+               <item>5 A maid at 50 years of age,</item>
+               <item>6 A woman without Pride,</item>
+               <item>7 A Lyar without an Ex<g ref="char:EOLhyphen"/>cuſe.</item>
+            </list>
+            <list>
+               <head>Seven things inviſible</head>
+               <item>1 Cuckolds Horns,</item>
+               <item>2 A Brokers Ho<g ref="char:EOLhyphen"/>neſty,</item>
+               <item>3 A Catchpoles Mercy,</item>
+               <item>4 A U<g ref="char:EOLhyphen"/>ſurers Charity,</item>
+               <item>5 A whores Conſtancy,</item>
+               <item>6 A Bawds Modeſty,</item>
+               <item>7 A Traytors Loyal<g ref="char:EOLhyphen"/>ty.</item>
+            </list>
+            <list>
+               <head>Seven things make Life comfortable</head>
+               <item>1 A heavy Purſe,</item>
+               <item>2 a light Heart,</item>
+               <item>3 an honeſt wife,</item>
+               <item>4 Obedient Children,</item>
+               <item>5 a healthful Body,</item>
+               <item>6 a ſure Friend,</item>
+               <item>7 a peaceable time to live in.</item>
+            </list>
+            <list>
+               <pb facs="tcp:33095:7"/>
+               <head>Seven Creatures better to hang than to keep.</head>
+               <item>1 A Padder or Highway-man,</item>
+               <item>2 a Prig<g ref="char:EOLhyphen"/>ger of Prancers.</item>
+               <item>3 a Lifter,</item>
+               <item>4 a Jilt,</item>
+               <item>5 a Nip,</item>
+               <item>6 a Foiſt,</item>
+               <item>7 a Shark.</item>
+            </list>
+            <list>
+               <head>Seven things which ſuretyſhip may be com<g ref="char:EOLhyphen"/>pared unto.</head>
+               <item>1 Baits for tame Fouls,</item>
+               <item>2 Springes for Woodcocks,</item>
+               <item>3 Purſenets for Conies,</item>
+               <item>4 Toyls for mad Bucks,</item>
+               <item>5 Pens for Geeſe,</item>
+               <item>6 Hooks for Gudgeons,</item>
+               <item>7 Snares for Buz<g ref="char:EOLhyphen"/>zards.</item>
+            </list>
+            <list>
+               <head>Seven ſeveral ſorts of Horſes<g ref="char:punc">▪</g>
+               </head>
+               <item>1 The Spaniſh Gennet,</item>
+               <item>2 the Naples Courſer,</item>
+               <item>3 the German Steed,</item>
+               <item>4 the Galloway Nag.</item>
+               <item>5 the Iriſh Hobby,</item>
+               <item>6 the French Cheuala,</item>
+               <item>7 the Welſh Palfrey.</item>
+            </list>
+            <list>
+               <head>Seven ſeveral Names for a Sir-reverence.</head>
+               <item>1 In Welſh it is called a <hi>Ban,</hi>
+               </item>
+               <item>2 in French it is <hi>Maude,</hi>
+               </item>
+               <item>3 it is called a Deers <hi>Fewmets,</hi>
+               </item>
+               <item>4 a Bore or Beaves <hi>Leaſſes,</hi>
+               </item>
+               <item>5 a Hare or Coneys <hi>Crottoyes,</hi>
+               </item>
+               <item>6 a Fox or Badgers <hi>Feauce,</hi>
+               </item>
+               <item>7 in Engliſh a T—d.</item>
+            </list>
+            <list>
+               <pb facs="tcp:33095:7"/>
+               <head>The ſeven ſorts of Geeſe.</head>
+               <item>1 The Wild Gooſe,</item>
+               <item>2 The Tame Gooſe</item>
+               <item>3 The Taylors Gooſe,</item>
+               <item>4 The <hi>Wincheſter</hi> Gooſe,</item>
+               <item>5 The Clack Gooſe,</item>
+               <item>6 The Soland Gooſe,</item>
+               <item>7 The Hunniburn Gooſe.</item>
+            </list>
+            <list>
+               <head>The ſeven ſorts of Tranſeendan: Ale.</head>
+               <item>1 Cock Ale,</item>
+               <item>2 <hi>China</hi> Ale,</item>
+               <item>3 Scurvy-graſs Ale,</item>
+               <item>4 <hi>Lambeth</hi> Ale,</item>
+               <item>5 <hi>Hull</hi> Ale,</item>
+               <item>6 <hi>Darby</hi> Ale,</item>
+               <item>7 Elemozinary Ale.</item>
+            </list>
+            <list>
+               <head>Seven things a young Maid Loves.</head>
+               <item>1 Fine Cloaths,</item>
+               <item>2 Walking abroad,</item>
+               <item>3 Choice of Suiters,</item>
+               <item>4 Lying a Bed,</item>
+               <item>5 Good Victuals,</item>
+               <item>6 Strong drink,</item>
+               <item>7 Long ſleeps and no work.</item>
+            </list>
+            <list>
+               <head>Seven ſorts of People that live by the Element of Earth.</head>
+               <item>1 Griping Uſurers,</item>
+               <item>2 Racking Landlord<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </item>
+               <item>3 Toyling Plowmen,</item>
+               <item>4 Moyling Labourer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </item>
+               <item>5 Painful Gardiners,</item>
+               <item>6 Grave Sextons,</item>
+               <item>7 Diggers of Mines.</item>
+            </list>
+            <list>
+               <pb facs="tcp:33095:8"/>
+               <head>Seven ſorts of people that live by the Element of Air.</head>
+               <item>1 Poets,</item>
+               <item>2 Trumpeters<g ref="char:punc">▪</g>
+               </item>
+               <item>3 Cornets,</item>
+               <item>4 Re<g ref="char:EOLhyphen"/>corders,</item>
+               <item>5 Bag-pipers,</item>
+               <item>6 Tobacconiſts,</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pipers.</item>
+            </list>
+            <list>
+               <head>Seven ſorts of People that live by the Element of Fire</head>
+               <item>1 Blackſmiths,</item>
+               <item>2 Fire-men,</item>
+               <item>3 Colliers,</item>
+               <item>4 Gunners,</item>
+               <item>5 Gunfounders,</item>
+               <item>6 Cooks,</item>
+               <item>7 Mettle-men.</item>
+            </list>
+            <list>
+               <head>Seven ſorts of People that live by the Element of Water</head>
+               <item>1 Brewers,</item>
+               <item>2 Vintners,</item>
+               <item>3 Dyers,</item>
+               <item>4 Mar<g ref="char:EOLhyphen"/>riners,</item>
+               <item>5 Fiſher-men,</item>
+               <item>6 Scullers,</item>
+               <item>7 Tanners.</item>
+            </list>
+            <list>
+               <head>Nicknames given to ſeven ſeveral Counties.</head>
+               <item>1 <hi>Eſſex</hi> Calves,</item>
+               <item>2 <hi>Hartfordſhire Hedge<g ref="char:EOLhyphen"/>hogs,</hi>
+               </item>
+               <item>3 <hi>Kentiſh</hi> Long-tails,</item>
+               <item>4 <hi>Cambridgeſhire</hi> Cammels,</item>
+               <item>5 <hi>Leicesterſhire</hi> Bean-bellies,</item>
+               <item>6 <hi>Norfolke</hi> Dumplings,</item>
+               <item>7 <hi>Yorkſhire</hi> Tikes.</item>
+            </list>
+            <list>
+               <head>The ſeven ſeveral ſorts of Puddings.</head>
+               <item>1 The Bag-puddings of <hi>Gloceſterſhire,</hi>
+               </item>
+               <item>2 The Black Puddings of <hi>Worceſterſhire,</hi>
+               </item>
+               <item>3 The
+<pb facs="tcp:33095:8"/>
+Pan-puddings of <hi>Shropſhire,</hi>
+               </item>
+               <item>4 The White Puddings of <hi>Somerſetſhire,</hi>
+               </item>
+               <item>5 The Haſty pud<g ref="char:EOLhyphen"/>dings of <hi>Hampſhire,</hi>
+               </item>
+               <item>6 The Hogg's Puddings of <hi>Rutlandſhire,</hi>
+               </item>
+               <item>7 The Pudding-pies of any ſhire.</item>
+            </list>
+            <list>
+               <head>Seven Diſhes for a weak Stomach.</head>
+               <item>1 Cuſtard,</item>
+               <item>2 Eg-pye,</item>
+               <item>3 Cheeſe-cake,</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Flawne,</item>
+               <item>5 Fool,</item>
+               <item>6 Tanzy, 7 Flap-jack<g ref="char:punc">▪</g>
+               </item>
+            </list>
+            <list>
+               <head>Seven other ſorts of Diſhes.</head>
+               <item>1 Froyze,</item>
+               <item>2 Fritter,</item>
+               <item>3 Poſſet,</item>
+               <item>4 Galey<g ref="char:EOLhyphen"/>mawfrey,</item>
+               <item>5 Mackeroone,</item>
+               <item>6 Kicksſhaw,</item>
+               <item>7 Tantablin.</item>
+            </list>
+            <list>
+               <head>Seven things greatly to be pittied.</head>
+               <item>1 An old man without grace,</item>
+               <item>2 a young maid without modeſty,</item>
+               <item>3 a purſe without mony,</item>
+               <item>4 a Cupboard without Victuals,</item>
+               <item>5 a ſhop without Cuſtomers,</item>
+               <item>6 an able Preach<g ref="char:EOLhyphen"/>er without hearers,</item>
+               <item>7 a hungry ſtomach and nothing to eat.</item>
+            </list>
+            <list>
+               <head>Seven ſorts of men, love ſeven ſorts of things.</head>
+               <item>1 A <hi>Dutch</hi>-man loves Brandy,</item>
+               <item>2 an <hi>Iriſh</hi>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an Uſquebath, </item>
+               <item>3 a <hi>Welſh</hi>-man toaſted cheeſe</item>
+               <item>4 an <hi>Engliſh</hi>-man Canary,</item>
+               <item>5 a <hi>Scotch</hi>-man Oat-cakes,</item>
+               <item>6 a <hi>French</hi>-man Mutton,</item>
+               <item>7 a <hi>German</hi> ſtrong Beer.</item>
+            </list>
+            <list>
+               <head>Seven things ſome women provide for their Husbands.</head>
+               <item>1 A meſs of maundring broth,</item>
+               <item>2 a diſh of Powts,</item>
+               <item>3 a handful of Rue,</item>
+               <item>4 a Worwood Poſſet,</item>
+               <item>5 a Pan full of Carp,</item>
+               <item>6 a Cuckolds Cap, and</item>
+               <item>7 an Horn Comb.</item>
+            </list>
+            <list>
+               <pb facs="tcp:33095:9"/>
+               <head>Seven ſeveral ſorts of courſe muſick.</head>
+               <item>1 A Dog howling,</item>
+               <item>2 an Owl ſinging,</item>
+               <item>3 a Woman ſcolding,</item>
+               <item>4 a Pig crying,</item>
+               <item>5 an Aſs braying,</item>
+               <item>6 a Cat mewing,</item>
+               <item>7 and Trenchers ſcraping.</item>
+            </list>
+            <list>
+               <head>Seven Proverbs much in uſe.</head>
+               <item>1 A good Jack makes a good Jill,</item>
+               <item>2 a cunning Knave needs no broker,</item>
+               <item>3 Near is my Petticote but nearer is my Smock,</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Set a beggar on Horſeback and he will ride to the Devil,</item>
+               <item>5 Like to like, quoth the Devil to the Collier,</item>
+               <item>6 A bit in the morning, better then nothing all day after,</item>
+               <item>7 Shitten-come-ſh—s is the beginning of Love.</item>
+            </list>
+            <list>
+               <head>Seven ways to kill a Dog beſides hanging him</head>
+               <item>1 To ſhoot a Cannon Bullet into his heart,</item>
+               <item>2 to daſh out his brains againſt the roots of a Tree,</item>
+               <item>3 to cut of his head with a ſword,</item>
+               <item>4 to keep him without victuals a month to gether,</item>
+               <item>5 to drown him in a deep River,</item>
+               <item>6 to flay of his skin and turn him abroad in froſty morning,</item>
+               <item>7 to give him an ill name and that according to the Proverb, is wor<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> then hanging.</item>
+            </list>
+            <list>
+               <head>Seven things which we ſhould deſire.</head>
+               <item>1 The grace of God,</item>
+               <item>2 a quiet Life,</item>
+               <item>3 contented mind,</item>
+               <item>4 An honeſt Wife,</item>
+               <item>5 good report,</item>
+               <item>6 A Friend in ſtore,</item>
+               <item>7 Mo<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> at need, what need we more.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33095:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
